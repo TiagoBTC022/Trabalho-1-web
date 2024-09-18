@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 - Questão 1</title>
+    <style>
+        body {
+            background-color: lightblue;
+        }
+        p {
+            font-family: 'Courier New', Courier;
+            color: black;
+        }
+        header {
+            font-family: 'Franklin Gothic Medium';
+            color: black;
+            background-color: rgb(61, 101, 154);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        
+        }
+        .caixa{
+            color: white;
+            padding: 20px; 
+            border: 5px solid #0f7bd4; 
+            border-radius: 40px;
+            margin: 30px; 
+            background-color: rgb(61, 101, 154);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1> Paises com otimo PIB</h1>
+    </header>
+    <p class="caixa">Luxemburgo é o país com o maior PIB per capita do mundo, segundo o ranking do moneytimes.com.br, que calcula o valor médio de riqueza e produção por habitante. Outros países ricos incluem: Irlanda, Suíça, Noruega. 
+    <br><br>Para quem quer trabalhar e juntar dinheiro, a Austrália é um país que se destaca pelo valorização do trabalho. O salário mínimo australiano é considerado um dos maiores do mundo e é calculado por hora, com pagamento semanal.</p>
+    
+</body>
+</html>
