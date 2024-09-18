@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 - Questão 3</title>
+    <style>
+        body {
+            background-color: gray;            
+        }
+        h1 {
+            color: black;
+            margin: 30px;
+        }
+        h2 {
+            color: black;
+            margin: 30px;
+
+        }
+        p {
+            color: rgb(15, 15, 15);
+
+        }
+        .bloco {
+            color: rgb(26, 25, 25);
+            padding: 20px; 
+            border: 5px solid #262629e3; 
+            border-radius: 40px;
+            margin: 30px; 
+            background-color: rgb(191, 194, 197);
+            width: auto;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <h1>Diferenças <br> do <br>Server side <br>E <br>Client side</h1>
+    <h2> <br><br>Client side</h2>
+    <p class="bloco">Basicamente o client side quer dizer o frontend, isso é quando nos referimos <br>a client side queremos dizer a parte que interage diretamente com o usuario <br>assim sendo a parte "Bonita" da programação podendo usar HTML, CSS e JS. <br></p>
+    <h2>Server side</h2>
+    <p class="bloco">Ja o Server side seria comparavel ao termo Backend sendo ele <br>Usado por no plano de fundo para execurar comandos mais <br> complexos do lado que o usuario não pode ver assim, <br>exemplos de linguagens que são comumente usadas são <br>Python, Java, PHP e em alguns casos JS</p>
+</body>
+</html>
