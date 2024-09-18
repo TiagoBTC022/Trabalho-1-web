@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 - Questão 4 </title>
+    <style>
+        body {
+            background-color: blanchedalmond;
+        }
+        h1 {
+            color: rgb(29, 8, 8);
+            margin: 30px;
+        }
+        p {
+            color: rgb(29, 8, 8);
+        }
+        .caixa {
+            color: rgb(26, 25, 25);
+            padding: 20px; 
+            border: 5px solid #262629e3; 
+            border-radius: 40px;
+            margin: 30px; 
+            background-color: rgb(191, 194, 197);
+            width: auto;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <h1>Semantica</h1>
+    <p class="caixa">Semântica, em termos gerais, refere-se ao estudo do <br> significado das palavras e frases. No HTML, semântica está  <br>relacionada à forma como o conteúdo é estruturado e descrito <br> de maneira que o significado seja claro tanto para os humanos <br> quanto para as máquinas (como navegadores e motores de <br> busca). <br> A semantica é importante por diversos fatores sendo alguns <br> deles a claresa e estrutura, a acessibilidade e principalmente a <br>legibilidade, pois torna a manutenção e furutas alterações um <br> trabalho mais facil, rapido e eficiente</p>
+    
+</body>
+</html>
